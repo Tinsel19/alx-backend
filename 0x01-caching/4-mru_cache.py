@@ -1,4 +1,5 @@
-U caching"""
+#!/usr/bin/env python3
+"""MRU caching"""
 from base_caching import BaseCaching
 
 
